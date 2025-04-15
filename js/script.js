@@ -13,7 +13,6 @@ btnWrappers.forEach(btnWrapper => {
             if (btn.classList.contains('btn__open')) {
                 btn.innerHTML = `
                     <span>مشاهده کمتر</span>
-                    <span>مشاهده کمتر</span>
                     <svg width="24" height="24">
                         <use href="#icon-minus"></use>
                     </svg>
